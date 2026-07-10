@@ -7,8 +7,10 @@ public:
                 if (i - mp[nums[i]] <= k)
                     return true;
             }
+
            mp[nums[i]] = i;
         }
+        
         return false;
     }
 };
