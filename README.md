@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Avya0507/Competitive-Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0232-implement-queue-using-stacks](https://github.com/Avya0507/Competitive-Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Avya0507/Competitive-Coding/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Avya0507/Competitive-Coding/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Avya0507/Competitive-Coding/tree/master/0016-3sum-closest) |
 | [0234-palindrome-linked-list](https://github.com/Avya0507/Competitive-Coding/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Avya0507/Competitive-Coding/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Recursion
 |  |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Avya0507/Competitive-Coding/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0977-squares-of-a-sorted-array) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Avya0507/Competitive-Coding/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Avya0507/Competitive-Coding/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
