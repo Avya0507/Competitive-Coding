@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Avya0507/Competitive-Coding/tree/master/0016-3sum-closest) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Avya0507/Competitive-Coding/tree/master/0035-search-insert-position) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Avya0507/Competitive-Coding/tree/master/0016-3sum-closest) |
 | [0234-palindrome-linked-list](https://github.com/Avya0507/Competitive-Coding/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Avya0507/Competitive-Coding/tree/master/0844-backspace-string-compare) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Avya0507/Competitive-Coding/tree/master/0016-3sum-closest) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0977-squares-of-a-sorted-array) |
 ## String
