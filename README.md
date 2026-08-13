@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Avya0507/Competitive-Coding/tree/master/0238-product-of-array-except-self) |
+| [0904-fruit-into-baskets](https://github.com/Avya0507/Competitive-Coding/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -28,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Avya0507/Competitive-Coding/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Avya0507/Competitive-Coding/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0219-contains-duplicate-ii) |
+| [0904-fruit-into-baskets](https://github.com/Avya0507/Competitive-Coding/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
