@@ -29,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Avya0507/Competitive-Coding/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Avya0507/Competitive-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Avya0507/Competitive-Coding/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Avya0507/Competitive-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Avya0507/Competitive-Coding/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Avya0507/Competitive-Coding/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Avya0507/Competitive-Coding/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
