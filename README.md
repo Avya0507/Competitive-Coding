@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Avya0507/Competitive-Coding/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Avya0507/Competitive-Coding/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Avya0507/Competitive-Coding/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Avya0507/Competitive-Coding/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Avya0507/Competitive-Coding/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/Avya0507/Competitive-Coding/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Avya0507/Competitive-Coding/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
