@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Avya0507/Competitive-Coding/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Avya0507/Competitive-Coding/tree/master/0202-happy-number) |
 ## Array
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Avya0507/Competitive-Coding/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avya0507/Competitive-Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0152-maximum-product-subarray](https://github.com/Avya0507/Competitive-Coding/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Avya0507/Competitive-Coding/tree/master/0238-product-of-array-except-self) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Avya0507/Competitive-Coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/Avya0507/Competitive-Coding/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Avya0507/Competitive-Coding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Avya0507/Competitive-Coding/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Avya0507/Competitive-Coding/tree/master/0844-backspace-string-compare) |
