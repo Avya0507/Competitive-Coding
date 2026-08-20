@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Avya0507/Competitive-Coding/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Avya0507/Competitive-Coding/tree/master/0084-largest-rectangle-in-histogram) |
+| [0152-maximum-product-subarray](https://github.com/Avya0507/Competitive-Coding/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/Avya0507/Competitive-Coding/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Avya0507/Competitive-Coding/tree/master/0238-product-of-array-except-self) |
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Avya0507/Competitive-Coding/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Avya0507/Competitive-Coding/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Avya0507/Competitive-Coding/tree/master/0202-happy-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Avya0507/Competitive-Coding/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
